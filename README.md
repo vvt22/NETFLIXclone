@@ -5,6 +5,8 @@
 - Build Header
 - Login form
 - Sign up form
+- Form validation
+- useRef hook
 
 # Features
 
